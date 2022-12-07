@@ -1,4 +1,5 @@
 # Credit-Card-Default-Prediction
+![image](https://user-images.githubusercontent.com/112092937/206199250-2211ca2b-270f-4a89-8c5c-30416dea5232.png)
 
 
 
