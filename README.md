@@ -18,7 +18,7 @@ This dataset contains information on default payments, demographic factors, cred
 
 • LIMIT_BAL: Amount of given credit in NT dollars (includes individual and family/supplementary credit
 
-• SEX: Gender (1=male, 2=female)
+• GENDER: Gender (1=male, 2=female)
 
 • EDUCATION: (1=graduate school, 2=university, 3=high school, 4=others, 5=unknown, 6=unknown)
 
