@@ -92,6 +92,7 @@ This dataset contains information on default payments, demographic factors, cred
 
 •	Female, more educated, Single and between 30-40years old means a customer is more likely to make payments on time.
 
-•	Best accuracy score: 1) Random Forest Classifier: (a) Test Data= 94% (b) Train Data= 80%
-                          2) XGBoost Classifier: (a) Test Data= 81% (b) Train Data= 80%
+•	Best accuracy score:  Random Forest Classifier: (a) Test Data= 94% (b) Train Data= 80%
+
+•    Best accuracy score:  XGBoost Classifier: (a) Test Data= 81% (b) Train Data= 80%
 
