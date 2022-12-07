@@ -4,6 +4,7 @@
 
 **Problem Description**
 This project is aimed at predicting the case of customers default payments in Taiwan. From the perspective of risk management, the result of predictive accuracy of the estimated probability of default will be more valuable than the binary result of classification - credible or not credible clients.We can use the K-S chart to evaluate which customers will default on their credit card payments.
+
 **Data Desciption**
      • ID: ID of each client
      • LIMIT_BAL: Amount of given credit in NT dollars (includes individual and family/supplementary credit
@@ -30,6 +31,7 @@ This project is aimed at predicting the case of customers default payments in Ta
      • PAY_AMT5: Amount of previous payment in May, 2005 (NT dollar)
      • PAY_AMT6: Amount of previous payment in April, 2005 (NT dollar)
      • default.payment.next.month: Default payment (1=yes, 0=no)
+     
 **Algorithms Used :**
       (1) Logistic Regression
       (2) Decision Tree Classifier
