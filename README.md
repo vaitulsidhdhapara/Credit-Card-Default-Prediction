@@ -5,10 +5,12 @@
 
 **Problem Description**
 
+
 This project is aimed at predicting the case of customers default payments in Taiwan. From the perspective of risk management, the result of predictive accuracy of the estimated probability of default will be more valuable than the binary result of classification - credible or not credible clients.We can use the K-S chart to evaluate which customers will default on their credit card payments.
 
 
 **Data Desciption :**
+
 
 This dataset contains information on default payments, demographic factors, credit limit, history of payments, and bill statements of credit card clients in Taiwan from April 2005 to September 2005. It includes 30,000 rows and 25 columns, and there is no credit score or credit history information.
 
@@ -62,8 +64,10 @@ This dataset contains information on default payments, demographic factors, cred
 
 • default.payment.next.month: Default payment (1=yes, 0=no)
      
-     
+
+
 **Algorithms Used :**
+
 
 (1) Logistic Regression
      
@@ -80,9 +84,11 @@ This dataset contains information on default payments, demographic factors, cred
 (7) Support Vector Classifier
       
 (8) Naive Bayes Classifier
-      
+    
+    
 
 **Conclusion:**
+
 
 •	After observing Precision, Recall, ROC-AUC curve and Accuracy score XGBoost and Random Forest Classifier Model are the best model for this dataset.
 
