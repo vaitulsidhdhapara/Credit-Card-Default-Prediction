@@ -26,7 +26,7 @@ This dataset contains information on default payments, demographic factors, cred
 
 • AGE: Age in years
 
-• PAY_0: Repayment status in September, 2005 (-1=pay duly, 1=payment delay for one month, 2=payment delay for two months,8=payment delay for eight months,9=payment delay for nine months and above)
+• PAY_0: Repayment status in September, 2005 (-1=pay duly, 1=payment delay for one month, 2=payment delay for two months,......,8=payment delay for eight months,9=payment delay for nine months and above)
 
 • PAY_2: Repayment status in August, 2005 (scale same as above)
 
