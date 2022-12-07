@@ -1,5 +1,5 @@
 # Credit-Card-Default-Prediction
-![image](https://user-images.githubusercontent.com/112092937/206199439-3cf9509b-dab4-4886-a7d2-9807045bc344.png)
+![image](https://user-images.githubusercontent.com/112092937/206201278-ef8ce2ba-2f41-42c3-89d5-5eb608b1573d.png)
 
 
 
