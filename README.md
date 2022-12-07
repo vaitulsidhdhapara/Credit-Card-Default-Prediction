@@ -1,5 +1,5 @@
 # Credit-Card-Default-Prediction
-![image](https://user-images.githubusercontent.com/112092937/206199250-2211ca2b-270f-4a89-8c5c-30416dea5232.png)
+![image](https://user-images.githubusercontent.com/112092937/206199439-3cf9509b-dab4-4886-a7d2-9807045bc344.png)
 
 
 
@@ -9,6 +9,8 @@ This project is aimed at predicting the case of customers default payments in Ta
 
 
 **Data Desciption :**
+
+This dataset contains information on default payments, demographic factors, credit limit, history of payments, and bill statements of credit card clients in Taiwan from April 2005 to September 2005. It includes 30,000 rows and 25 columns, and there is no credit score or credit history information.
 
 • ID: ID of each client
 
@@ -79,4 +81,20 @@ This project is aimed at predicting the case of customers default payments in Ta
       
 (8) Naive Bayes Classifier
       
+
+**Conclusion:**
+
+•	After observing Precision, Recall, ROC-AUC curve and Accuracy score XGBoost and Random Forest Classifier Model are the best model for this dataset.
+
+•	The balance of recall and precision is the most important metric, then XGBoost and Random Forest Classifier Model are the ideal model.
+
+•	The strongest predictors of default are the PAY_X (i.e., the repayment status in previous months), the LIMIT_BAL & the PAY_AMTX (amount paid in previous months).
+
+•	Female, more educated, Single and between 30-40years old means a customer is more likely to make payments on time.
+
+•	Best accuracy score:
+
+          1) Random Forest Classifier: (a) Test Data= 94% (b) Train Data= 80%
+          
+          2) XGBoost Classifier: (a) Test Data= 81% (b) Train Data= 80%
 
